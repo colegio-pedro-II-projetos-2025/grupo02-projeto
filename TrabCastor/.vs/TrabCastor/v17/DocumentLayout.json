@@ -1,61 +1,61 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\TrabCastor3.0\\TrabCastor\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\Projeto_Tccastor\\grupo02-projeto\\TrabCastor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{753C3403-4061-405D-A9FF-BB58F5E2C2D3}|TrabCastor\\TrabCastor.csproj|C:\\Users\\Administrator\\Documents\\TrabCastor3.0\\TrabCastor\\trabcastor\\telainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{753C3403-4061-405D-A9FF-BB58F5E2C2D3}|TrabCastor\\TrabCastor.csproj|solutionrelative:trabcastor\\telainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{753C3403-4061-405D-A9FF-BB58F5E2C2D3}|TrabCastor\\TrabCastor.csproj|c:\\users\\administrator\\documents\\trabcastor3.0\\trabcastor\\trabcastor\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{753C3403-4061-405D-A9FF-BB58F5E2C2D3}|TrabCastor\\TrabCastor.csproj|solutionrelative:trabcastor\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{753C3403-4061-405D-A9FF-BB58F5E2C2D3}|TrabCastor\\TrabCastor.csproj|C:\\Users\\Administrator\\Documents\\TrabCastor3.0\\TrabCastor\\trabcastor\\telacadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{753C3403-4061-405D-A9FF-BB58F5E2C2D3}|TrabCastor\\TrabCastor.csproj|solutionrelative:trabcastor\\telacadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{753C3403-4061-405D-A9FF-BB58F5E2C2D3}|TrabCastor\\TrabCastor.csproj|C:\\Users\\Administrator\\Documents\\TrabCastor3.0\\TrabCastor\\trabcastor\\telacadastro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{753C3403-4061-405D-A9FF-BB58F5E2C2D3}|TrabCastor\\TrabCastor.csproj|solutionrelative:trabcastor\\telacadastro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{753C3403-4061-405D-A9FF-BB58F5E2C2D3}|TrabCastor\\TrabCastor.csproj|C:\\Users\\Administrator\\Documents\\TrabCastor3.0\\TrabCastor\\trabcastor\\telalogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{753C3403-4061-405D-A9FF-BB58F5E2C2D3}|TrabCastor\\TrabCastor.csproj|solutionrelative:trabcastor\\telalogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{753C3403-4061-405D-A9FF-BB58F5E2C2D3}|TrabCastor\\TrabCastor.csproj|C:\\Users\\Administrator\\Documents\\TrabCastor3.0\\TrabCastor\\trabcastor\\telacadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{753C3403-4061-405D-A9FF-BB58F5E2C2D3}|TrabCastor\\TrabCastor.csproj|solutionrelative:trabcastor\\telacadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{753C3403-4061-405D-A9FF-BB58F5E2C2D3}|TrabCastor\\TrabCastor.csproj|C:\\Users\\Administrator\\Documents\\TrabCastor3.0\\TrabCastor\\trabcastor\\hashutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{753C3403-4061-405D-A9FF-BB58F5E2C2D3}|TrabCastor\\TrabCastor.csproj|solutionrelative:trabcastor\\hashutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{753C3403-4061-405D-A9FF-BB58F5E2C2D3}|TrabCastor\\TrabCastor.csproj|C:\\Users\\Administrator\\Documents\\TrabCastor3.0\\TrabCastor\\trabcastor\\bdutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{753C3403-4061-405D-A9FF-BB58F5E2C2D3}|TrabCastor\\TrabCastor.csproj|C:\\Users\\Administrator\\Documents\\Projeto_Tccastor\\grupo02-projeto\\TrabCastor\\trabcastor\\bdutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{753C3403-4061-405D-A9FF-BB58F5E2C2D3}|TrabCastor\\TrabCastor.csproj|solutionrelative:trabcastor\\bdutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{753C3403-4061-405D-A9FF-BB58F5E2C2D3}|TrabCastor\\TrabCastor.csproj|C:\\Users\\Administrator\\Documents\\TrabCastor3.0\\TrabCastor\\trabcastor\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{753C3403-4061-405D-A9FF-BB58F5E2C2D3}|TrabCastor\\TrabCastor.csproj|C:\\Users\\Administrator\\Documents\\Projeto_Tccastor\\grupo02-projeto\\TrabCastor\\trabcastor\\hashutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{753C3403-4061-405D-A9FF-BB58F5E2C2D3}|TrabCastor\\TrabCastor.csproj|solutionrelative:trabcastor\\hashutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{753C3403-4061-405D-A9FF-BB58F5E2C2D3}|TrabCastor\\TrabCastor.csproj|c:\\users\\administrator\\documents\\projeto_tccastor\\grupo02-projeto\\trabcastor\\trabcastor\\telainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{753C3403-4061-405D-A9FF-BB58F5E2C2D3}|TrabCastor\\TrabCastor.csproj|solutionrelative:trabcastor\\telainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{753C3403-4061-405D-A9FF-BB58F5E2C2D3}|TrabCastor\\TrabCastor.csproj|C:\\Users\\Administrator\\Documents\\Projeto_Tccastor\\grupo02-projeto\\TrabCastor\\trabcastor\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{753C3403-4061-405D-A9FF-BB58F5E2C2D3}|TrabCastor\\TrabCastor.csproj|solutionrelative:trabcastor\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{753C3403-4061-405D-A9FF-BB58F5E2C2D3}|TrabCastor\\TrabCastor.csproj|C:\\Users\\Administrator\\Documents\\Projeto_Tccastor\\grupo02-projeto\\TrabCastor\\trabcastor\\telacadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{753C3403-4061-405D-A9FF-BB58F5E2C2D3}|TrabCastor\\TrabCastor.csproj|solutionrelative:trabcastor\\telacadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{753C3403-4061-405D-A9FF-BB58F5E2C2D3}|TrabCastor\\TrabCastor.csproj|C:\\Users\\Administrator\\Documents\\Projeto_Tccastor\\grupo02-projeto\\TrabCastor\\trabcastor\\telacadastro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{753C3403-4061-405D-A9FF-BB58F5E2C2D3}|TrabCastor\\TrabCastor.csproj|solutionrelative:trabcastor\\telacadastro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{753C3403-4061-405D-A9FF-BB58F5E2C2D3}|TrabCastor\\TrabCastor.csproj|C:\\Users\\Administrator\\Documents\\Projeto_Tccastor\\grupo02-projeto\\TrabCastor\\trabcastor\\telalogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{753C3403-4061-405D-A9FF-BB58F5E2C2D3}|TrabCastor\\TrabCastor.csproj|solutionrelative:trabcastor\\telalogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{753C3403-4061-405D-A9FF-BB58F5E2C2D3}|TrabCastor\\TrabCastor.csproj|C:\\Users\\Administrator\\Documents\\Projeto_Tccastor\\grupo02-projeto\\TrabCastor\\trabcastor\\telacadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{753C3403-4061-405D-A9FF-BB58F5E2C2D3}|TrabCastor\\TrabCastor.csproj|solutionrelative:trabcastor\\telacadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{753C3403-4061-405D-A9FF-BB58F5E2C2D3}|TrabCastor\\TrabCastor.csproj|C:\\Users\\Administrator\\Documents\\Projeto_Tccastor\\grupo02-projeto\\TrabCastor\\trabcastor\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{753C3403-4061-405D-A9FF-BB58F5E2C2D3}|TrabCastor\\TrabCastor.csproj|solutionrelative:trabcastor\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{753C3403-4061-405D-A9FF-BB58F5E2C2D3}|TrabCastor\\TrabCastor.csproj|C:\\Users\\Administrator\\Documents\\TrabCastor3.0\\TrabCastor\\trabcastor\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{753C3403-4061-405D-A9FF-BB58F5E2C2D3}|TrabCastor\\TrabCastor.csproj|C:\\Users\\Administrator\\Documents\\Projeto_Tccastor\\grupo02-projeto\\TrabCastor\\trabcastor\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{753C3403-4061-405D-A9FF-BB58F5E2C2D3}|TrabCastor\\TrabCastor.csproj|solutionrelative:trabcastor\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{753C3403-4061-405D-A9FF-BB58F5E2C2D3}|TrabCastor\\TrabCastor.csproj|C:\\Users\\Administrator\\Documents\\TrabCastor3.0\\TrabCastor\\trabcastor\\telalogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{753C3403-4061-405D-A9FF-BB58F5E2C2D3}|TrabCastor\\TrabCastor.csproj|C:\\Users\\Administrator\\Documents\\Projeto_Tccastor\\grupo02-projeto\\TrabCastor\\trabcastor\\telalogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{753C3403-4061-405D-A9FF-BB58F5E2C2D3}|TrabCastor\\TrabCastor.csproj|solutionrelative:trabcastor\\telalogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{753C3403-4061-405D-A9FF-BB58F5E2C2D3}|TrabCastor\\TrabCastor.csproj|C:\\Users\\Administrator\\Documents\\TrabCastor3.0\\TrabCastor\\trabcastor\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{753C3403-4061-405D-A9FF-BB58F5E2C2D3}|TrabCastor\\TrabCastor.csproj|C:\\Users\\Administrator\\Documents\\Projeto_Tccastor\\grupo02-projeto\\TrabCastor\\trabcastor\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{753C3403-4061-405D-A9FF-BB58F5E2C2D3}|TrabCastor\\TrabCastor.csproj|solutionrelative:trabcastor\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{753C3403-4061-405D-A9FF-BB58F5E2C2D3}|TrabCastor\\TrabCastor.csproj|C:\\Users\\Administrator\\Documents\\TrabCastor3.0\\TrabCastor\\trabcastor\\telainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{753C3403-4061-405D-A9FF-BB58F5E2C2D3}|TrabCastor\\TrabCastor.csproj|C:\\Users\\Administrator\\Documents\\Projeto_Tccastor\\grupo02-projeto\\TrabCastor\\trabcastor\\telainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{753C3403-4061-405D-A9FF-BB58F5E2C2D3}|TrabCastor\\TrabCastor.csproj|solutionrelative:trabcastor\\telainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{753C3403-4061-405D-A9FF-BB58F5E2C2D3}|TrabCastor\\TrabCastor.csproj|C:\\Users\\Administrator\\Documents\\TrabCastor3.0\\TrabCastor\\trabcastor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{753C3403-4061-405D-A9FF-BB58F5E2C2D3}|TrabCastor\\TrabCastor.csproj|C:\\Users\\Administrator\\Documents\\Projeto_Tccastor\\grupo02-projeto\\TrabCastor\\trabcastor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{753C3403-4061-405D-A9FF-BB58F5E2C2D3}|TrabCastor\\TrabCastor.csproj|solutionrelative:trabcastor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -66,15 +66,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "TelaInicial.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\TrabCastor3.0\\TrabCastor\\TrabCastor\\TelaInicial.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Projeto_Tccastor\\grupo02-projeto\\TrabCastor\\TrabCastor\\TelaInicial.cs",
               "RelativeDocumentMoniker": "TrabCastor\\TelaInicial.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\TrabCastor3.0\\TrabCastor\\TrabCastor\\TelaInicial.cs [Design]",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Projeto_Tccastor\\grupo02-projeto\\TrabCastor\\TrabCastor\\TelaInicial.cs [Design]",
               "RelativeToolTip": "TrabCastor\\TelaInicial.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-01T23:48:56.994Z",
@@ -83,48 +83,73 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "TelaLogin.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\TrabCastor3.0\\TrabCastor\\TrabCastor\\TelaLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Projeto_Tccastor\\grupo02-projeto\\TrabCastor\\TrabCastor\\TelaLogin.cs",
               "RelativeDocumentMoniker": "TrabCastor\\TelaLogin.cs",
               "ToolTip": "C:\\Users\\guilh\\JS\\TrabCastor\\TrabCastor\\TelaLogin.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\guilh\\JS\\TrabCastor\\TrabCastor\\TelaLogin.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\guilh\\JS\\TrabCastor\\TrabCastor\\TelaLogin.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-03T20:27:57.602Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "TelaCadastro.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\TrabCastor3.0\\TrabCastor\\TrabCastor\\TelaCadastro.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Projeto_Tccastor\\grupo02-projeto\\TrabCastor\\TrabCastor\\TelaCadastro.cs",
               "RelativeDocumentMoniker": "TrabCastor\\TelaCadastro.cs",
               "ToolTip": "C:\\Users\\guilh\\JS\\TrabCastor\\TrabCastor\\TelaCadastro.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\guilh\\JS\\TrabCastor\\TrabCastor\\TelaCadastro.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\guilh\\JS\\TrabCastor\\TrabCastor\\TelaCadastro.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-02T21:36:40.994Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BdUtil.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Projeto_Tccastor\\grupo02-projeto\\TrabCastor\\TrabCastor\\BdUtil.cs",
+              "RelativeDocumentMoniker": "TrabCastor\\BdUtil.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Projeto_Tccastor\\grupo02-projeto\\TrabCastor\\TrabCastor\\BdUtil.cs",
+              "RelativeToolTip": "TrabCastor\\BdUtil.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T19:20:57.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UsuarioRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\TrabCastor3.0\\TrabCastor\\TrabCastor\\UsuarioRepository.cs",
-              "RelativeDocumentMoniker": "TrabCastor\\UsuarioRepository.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\TrabCastor3.0\\TrabCastor\\TrabCastor\\UsuarioRepository.cs",
-              "RelativeToolTip": "TrabCastor\\UsuarioRepository.cs",
+              "Title": "HashUtil.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Projeto_Tccastor\\grupo02-projeto\\TrabCastor\\TrabCastor\\HashUtil.cs",
+              "RelativeDocumentMoniker": "TrabCastor\\HashUtil.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Projeto_Tccastor\\grupo02-projeto\\TrabCastor\\TrabCastor\\HashUtil.cs",
+              "RelativeToolTip": "TrabCastor\\HashUtil.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T19:38:32.109Z",
+              "WhenOpened": "2025-06-04T19:45:35.656Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Projeto_Tccastor\\grupo02-projeto\\TrabCastor\\TrabCastor\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "TrabCastor\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Projeto_Tccastor\\grupo02-projeto\\TrabCastor\\TrabCastor\\UsuarioRepository.cs",
+              "RelativeToolTip": "TrabCastor\\UsuarioRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T19:38:32.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "TelaCadastro.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\TrabCastor3.0\\TrabCastor\\TrabCastor\\TelaCadastro.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Projeto_Tccastor\\grupo02-projeto\\TrabCastor\\TrabCastor\\TelaCadastro.Designer.cs",
               "RelativeDocumentMoniker": "TrabCastor\\TelaCadastro.Designer.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\TrabCastor3.0\\TrabCastor\\TrabCastor\\TelaCadastro.Designer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Projeto_Tccastor\\grupo02-projeto\\TrabCastor\\TrabCastor\\TelaCadastro.Designer.cs",
               "RelativeToolTip": "TrabCastor\\TelaCadastro.Designer.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAALMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -132,11 +157,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "TelaCadastro.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\TrabCastor3.0\\TrabCastor\\TrabCastor\\TelaCadastro.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Projeto_Tccastor\\grupo02-projeto\\TrabCastor\\TrabCastor\\TelaCadastro.cs",
               "RelativeDocumentMoniker": "TrabCastor\\TelaCadastro.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\TrabCastor3.0\\TrabCastor\\TrabCastor\\TelaCadastro.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Projeto_Tccastor\\grupo02-projeto\\TrabCastor\\TrabCastor\\TelaCadastro.cs",
               "RelativeToolTip": "TrabCastor\\TelaCadastro.cs",
               "ViewState": "AgIAACYAAAAAAAAAAAAuwCkAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -144,35 +169,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "HashUtil.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\TrabCastor3.0\\TrabCastor\\TrabCastor\\HashUtil.cs",
-              "RelativeDocumentMoniker": "TrabCastor\\HashUtil.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\TrabCastor3.0\\TrabCastor\\TrabCastor\\HashUtil.cs",
-              "RelativeToolTip": "TrabCastor\\HashUtil.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T19:45:35.656Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BdUtil.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\TrabCastor3.0\\TrabCastor\\TrabCastor\\BdUtil.cs",
-              "RelativeDocumentMoniker": "TrabCastor\\BdUtil.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\TrabCastor3.0\\TrabCastor\\TrabCastor\\BdUtil.cs",
-              "RelativeToolTip": "TrabCastor\\BdUtil.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T19:20:57.408Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\TrabCastor3.0\\TrabCastor\\TrabCastor\\Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Projeto_Tccastor\\grupo02-projeto\\TrabCastor\\TrabCastor\\Usuario.cs",
               "RelativeDocumentMoniker": "TrabCastor\\Usuario.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\TrabCastor3.0\\TrabCastor\\TrabCastor\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Projeto_Tccastor\\grupo02-projeto\\TrabCastor\\TrabCastor\\Usuario.cs",
               "RelativeToolTip": "TrabCastor\\Usuario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -182,10 +183,10 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "MainForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\TrabCastor3.0\\TrabCastor\\TrabCastor\\MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Projeto_Tccastor\\grupo02-projeto\\TrabCastor\\TrabCastor\\MainForm.cs",
               "RelativeDocumentMoniker": "TrabCastor\\MainForm.cs",
               "ToolTip": "C:\\Users\\guilh\\JS\\TrabCastor\\TrabCastor\\MainForm.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\guilh\\JS\\TrabCastor\\TrabCastor\\MainForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\guilh\\JS\\TrabCastor\\TrabCastor\\MainForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-04T19:38:36.75Z"
             },
@@ -193,9 +194,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "MainForm.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\TrabCastor3.0\\TrabCastor\\TrabCastor\\MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Projeto_Tccastor\\grupo02-projeto\\TrabCastor\\TrabCastor\\MainForm.cs",
               "RelativeDocumentMoniker": "TrabCastor\\MainForm.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\TrabCastor3.0\\TrabCastor\\TrabCastor\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Projeto_Tccastor\\grupo02-projeto\\TrabCastor\\TrabCastor\\MainForm.cs",
               "RelativeToolTip": "TrabCastor\\MainForm.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAowBQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -205,9 +206,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "TelaLogin.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\TrabCastor3.0\\TrabCastor\\TrabCastor\\TelaLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Projeto_Tccastor\\grupo02-projeto\\TrabCastor\\TrabCastor\\TelaLogin.cs",
               "RelativeDocumentMoniker": "TrabCastor\\TelaLogin.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\TrabCastor3.0\\TrabCastor\\TrabCastor\\TelaLogin.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Projeto_Tccastor\\grupo02-projeto\\TrabCastor\\TrabCastor\\TelaLogin.cs",
               "RelativeToolTip": "TrabCastor\\TelaLogin.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAAAACkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -217,9 +218,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "TelaInicial.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\TrabCastor3.0\\TrabCastor\\TrabCastor\\TelaInicial.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Projeto_Tccastor\\grupo02-projeto\\TrabCastor\\TrabCastor\\TelaInicial.cs",
               "RelativeDocumentMoniker": "TrabCastor\\TelaInicial.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\TrabCastor3.0\\TrabCastor\\TrabCastor\\TelaInicial.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Projeto_Tccastor\\grupo02-projeto\\TrabCastor\\TrabCastor\\TelaInicial.cs",
               "RelativeToolTip": "TrabCastor\\TelaInicial.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-02T19:39:45.002Z",
@@ -229,9 +230,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\TrabCastor3.0\\TrabCastor\\TrabCastor\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Projeto_Tccastor\\grupo02-projeto\\TrabCastor\\TrabCastor\\Program.cs",
               "RelativeDocumentMoniker": "TrabCastor\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\TrabCastor3.0\\TrabCastor\\TrabCastor\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Projeto_Tccastor\\grupo02-projeto\\TrabCastor\\TrabCastor\\Program.cs",
               "RelativeToolTip": "TrabCastor\\Program.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

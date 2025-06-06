@@ -9,6 +9,6 @@ namespace TrabCastor
     internal class BdUtil
     {
         public static string ConnectionString { get; } =
-    "server=localhost;database=tccastor;uid=root;pwd=;";
+    "server=sql10.freesqldatabase.com;port=3306;database=sql10783453;uid=sql10783453;pwd=rH7W39MeJC;";
     }
 }
