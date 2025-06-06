@@ -21,6 +21,7 @@ namespace TrabCastor
         {
 
             TelaCadastro registro = new TelaCadastro();
+            //ghfghfghfgh
             
            var dialog =  registro.ShowDialog();
                       
