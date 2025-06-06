@@ -9,6 +9,6 @@ namespace TrabCastor
     internal class BdUtil
     {
         public static string ConnectionString { get; } =
-    "server=sql10.freesqldatabase.com;port=3306;database=sql10783453;uid=sql10783453;pwd=rH7W39MeJC;";
+    "server=br964.hostgator.com.br;port=3306;database=profbi66_tccinova2025;uid=profbi66_projeto25;pwd=Tcc(4st0R_2025;";
     }
 }
