@@ -7,9 +7,10 @@
 
 ## 👥 Participantes
 
-- ???
-- ???
-- ???
+- Lagôas
+- Flavio
+- Bianca
+- Cláudio
 
 ---
 
